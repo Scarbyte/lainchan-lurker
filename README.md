@@ -8,5 +8,5 @@ Browse lainchan.org through the terminal. Works on Linux and Windows.
 
 ## Requirements
 - python 3
-- requests
-- lxml
+- requests - ```pip install requests```
+- lxml - ```pip install lxml```
